@@ -49,11 +49,13 @@ Increase profits by upselling products to current customers
     - accounts products 
     - debit cards 
     - short-term deposits
-   - Not Buying 
+  - Not Buying 
     - Long-term deposits
-  - mortgages, 
-  - Securities
-  - investment funds 
+    - mortgages
+    - Securities
+    - investment funds 
+
+   
 
 
 
