@@ -39,3 +39,9 @@ Increase profits by upselling products to current customers
 - Task 5 - Coordination
 ***
 ### - Task 1 - Analysis
+- Who are easyMoney customers.
+- Product Groups 
+  - Savings Products
+  - Accounts Products
+  - Finance Products
+
