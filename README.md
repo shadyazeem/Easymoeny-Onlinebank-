@@ -21,9 +21,21 @@ characterized the first developments. In this context, and after the departure o
 easyMoney's management has decided to fill this vacancy with the incorporation of a Data Scientist, who will help in this new stage to increase the
 profitability of the current client portfolio.
 ***
+# Problem statment 
+- Drop in revenue 
+- lack of understanding of customer base 
+- Too many products
+- Not all products create revenue
+
+# The Aim 
+Increase profits by upselling products to current customers
+
+***
 The project divied to 5 Tasks :
 - Task 1 - Analysis
 - Task 2 - Segmentation
 - Task 3 - Recommendation
 - Task 4 - Monitoring
 - Task 5 - Coordination
+***
+### - Task 1 - Analysis
