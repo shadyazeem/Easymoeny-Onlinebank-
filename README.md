@@ -44,4 +44,11 @@ Increase profits by upselling products to current customers
   - Savings Products
   - Accounts Products
   - Finance Products
+- What products are the customers buying
+  - Buying 
+    - accounts products 
+    - debit cards 
+    - short-term deposits
+
+
 
