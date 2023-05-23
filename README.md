@@ -20,3 +20,10 @@ which complain of not having adequate means of work. Last but not least, interna
 characterized the first developments. In this context, and after the departure of one of the members of the Marketing team assigned to fundraising,
 easyMoney's management has decided to fill this vacancy with the incorporation of a Data Scientist, who will help in this new stage to increase the
 profitability of the current client portfolio.
+***
+The project divied to 5 Tasks :
+- Task 1 - Analysis
+- Task 2 - Segmentation
+- Task 3 - Recommendation
+- Task 4 - Monitoring
+- Task 5 - Coordination
