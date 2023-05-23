@@ -31,7 +31,7 @@ profitability of the current client portfolio.
 Increase profits by upselling products to current customers
 
 ***
-The project divied to 5 Tasks :
+## The project divied to 5 Tasks :
 - Task 1 - Analysis
 - Task 2 - Segmentation
 - Task 3 - Recommendation
