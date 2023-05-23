@@ -58,8 +58,8 @@ Increase profits by upselling products to current customers
  ### - Task 2 - Segmentation
 - Identify a customer group or groups who have the most chance of increasing the profitability 
 - Segmentation Model
- - Unsupervised machine learning can be used to group similar customers together
- - K-means model has been used for this task 
+  - Unsupervised machine learning can be used to group similar customers together
+  - K-means model has been used for this task 
 
 
    
